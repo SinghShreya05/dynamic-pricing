@@ -1,3 +1,3 @@
-# coca-pipeline
+# Dynamic Pricing
 
-End-to-End NLU Pipeline
+Objective - Discovering factors that influence user's behaviour in ticket purchasing
